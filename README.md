@@ -13,3 +13,4 @@ This is my personal read-list. I can mark links as checked once I've read them.
 - [ ] [Philipp Schmid's Blog](https://www.philschmid.de/fine-tune-llms-in-2025#3-create-and-prepare-the-dataset)
 - [ ] [Philipp Schmid on LinkedIn](https://www.linkedin.com/in/philipp-schmid-a6a2bb196/)
 - [ ] [Philipp Schmid GitHub Repository](https://github.com/philschmid/philschmid.de)
+- [ ] [git tutorials in easy lang](https://learngitbranching.js.org/)
